@@ -1,7 +1,7 @@
-Project 1: 
-Postpartum Depression
-                        https://github.com/vidhyaanandh/My_Projects/blob/main/postpartum-depression-1-0.ipynb
-      As an independent data scientist, I tried out this dataset. I have done the EDA for this dataset and found some interesting inferences. For example the highest number of pregnant women falls in the age group of 40-45. i wanted to analyse with the given dataset whether the women suffering from postpartum are feeling anxious or not! After applying onehotencoding i tried to apply different model and computed the accuracy.For this dataset, Gradient Boosting and Neural Networks gave me the highest accuracy values. 
+<h2>Project 1: 
+ Postpartum Depression</h2>
+                        https://github.com/vidhyaanandh/My_Projects/blob/main/postpartum-depression-1-0.ipynb <br/><br/>
+As an independent data scientist, I tried out this dataset. I have done the EDA for this dataset and found some interesting inferences. For example the highest number of pregnant women falls in the age group of 40-45. i wanted to analyse with the given dataset whether the women suffering from postpartum are feeling anxious or not! After applying onehotencoding i tried to apply different model and computed the accuracy.For this dataset, Gradient Boosting and Neural Networks gave me the highest accuracy values. <br/><br/>
       
 ![Unknown-1](https://user-images.githubusercontent.com/125475162/234282952-6f4dc36f-858c-4b59-9253-014876035f9c.png)
 ![Unknown-2](https://user-images.githubusercontent.com/125475162/234283081-82e2c206-d328-4138-b3d8-c7eb9924a273.png)
