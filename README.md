@@ -19,7 +19,7 @@
 
 <h2>Project 2: 
  Heart Disease Prediction on Genders</h2>
- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp https://github.com/vidhyaanandh/My_Projects/blob/main/Heart_Disease_Prediction_on_Genders<br/><br/>
+ &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp https://github.com/vidhyaanandh/My_Projects/blob/main/heart-disease-prediction-on-genders.ipynb<br/><br/>
  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  This project is an interesting project for me. From the given data, i wanted to predict 'Male' population being affected because of the health habits. For example, if one has Heart disease, smoking, alcohol consumption, race, diabetic whats the chance that one could be a Male. I tried implementing with different algorithms - logistic regression and random forest algorithm results looks interesting. <br/><br/>
 <details>
   <summary>Click to view the plots</summary>
