@@ -23,9 +23,9 @@
  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  This project is an interesting project for me. From the given data, i wanted to predict 'Male' population being affected because of the health habits. For example, if one has Heart disease, smoking, alcohol consumption, race, diabetic whats the chance that one could be a Male. I tried implementing with different algorithms - logistic regression and random forest algorithm results looks interesting. <br/><br/>
 <details>
   <summary>Click to view the plots</summary>
-  <img src="https://user-images.githubusercontent.com/125475162/235891765-876b0092-dd51-4c2a-b029-56ecf0f749aa.png" width="200" height="200">
-  <img src="https://user-images.githubusercontent.com/125475162/235891866-882e762c-1f8c-4ee8-935e-1411402bb1ba.png" width="200" height="200">
-  <img src="https://user-images.githubusercontent.com/125475162/235891926-8e58a5d9-91c6-4e3b-a2f0-ba810bc18dd1.png" width="200" height="200">
-  <img src="https://user-images.githubusercontent.com/125475162/235892023-931234bf-ad6d-40a5-9a19-9afc6a2715ae.png" width="200" height="200">
+  <img src="https://user-images.githubusercontent.com/125475162/235891765-876b0092-dd51-4c2a-b029-56ecf0f749aa.png" width="300" height="300">
+  <img src="https://user-images.githubusercontent.com/125475162/235891866-882e762c-1f8c-4ee8-935e-1411402bb1ba.png" width="300" height="300">
+  <img src="https://user-images.githubusercontent.com/125475162/235891926-8e58a5d9-91c6-4e3b-a2f0-ba810bc18dd1.png" width="300" height="300">
+  <img src="https://user-images.githubusercontent.com/125475162/235892023-931234bf-ad6d-40a5-9a19-9afc6a2715ae.png" width="300" height="300">
 </details>
 
